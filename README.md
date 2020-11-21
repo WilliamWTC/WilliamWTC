@@ -8,10 +8,10 @@ I use software to solve practical problems.
 
   - I'm currently a Software Engineering student at WeThinkCode.
 
-  - Favourite book categories: Finance
-                               Autobiography & Biography 
-                               Comics 
-                               Detective and Mystery
+  - Favourite book categories: Finance,
+                               Autobiography & Biography, 
+                               Comics, 
+                               Detective and Mystery,
                                History books.
 
   - Cyber Security Enthusiast.
@@ -32,7 +32,7 @@ I use software to solve practical problems.
 
 <br>
 
-### Let's get in touch!
+### Let's get in touch
 
 <p>
     <a href="https://twitter.com/lliamrc" alt="Twitter"><img src="https://github.com/imdhruv99/imdhruv99/blob/master/readme/twitter.png"></a>
