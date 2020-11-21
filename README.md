@@ -32,7 +32,7 @@ I use software to solve practical problems.
 
 <br>
 
-Let's get in touch!
+### Let's get in touch!
 
 <p>
     <a href="https://twitter.com/lliamrc" alt="Twitter"><img src="https://github.com/imdhruv99/imdhruv99/blob/master/readme/twitter.png"></a>
