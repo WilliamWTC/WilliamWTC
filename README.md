@@ -32,12 +32,10 @@ I use software to solve practical problems.
 
 <br>
 
-### Connect with me
-
 Let's get in touch!
 
 <p>
     <a href="https://twitter.com/lliamrc" alt="Twitter"><img src="https://github.com/imdhruv99/imdhruv99/blob/master/readme/twitter.png"></a>
-    <a href="https://www.linkedin.com/in/lesiba-william-mabitsela/" alt="Linkedin"><img src="https://github.com/imdhruv99/imdhruv99/blob/master/readme/linkedin.png"></a>
+    <a href="www.linkedin.com/in/lw-mabitsela" alt="Linkedin"><img src="https://github.com/imdhruv99/imdhruv99/blob/master/readme/linkedin.png"></a>
     <a href="" alt="Instagram"><img src="https://github.com/imdhruv99/imdhruv99/blob/master/readme/insta.png"></a>
 </p>
