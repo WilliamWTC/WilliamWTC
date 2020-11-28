@@ -6,17 +6,16 @@ I use software to solve practical problems.
   <summary>Get to know me!</summary>
   <br>
 
-  - I'm currently a Software Engineering student at WeThinkCode.
-
-  - Favourite book categories: Finance,
-                               Autobiography & Biography, 
-                               Comics, 
-                               Detective and Mystery,
-                               History books.
+  - Software Engineering student at WeThinkCode_
 
   - Cyber Security Enthusiast.
 
-  - Food. Football. Finance. Personal Growth. Social change.
+  - Books & Topics:  Finance.
+                     Personal Growth.
+                     Social change.
+                     Autobiographies.
+
+  - Food. Football. Live Music.
 
 </details>
 
