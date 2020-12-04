@@ -12,7 +12,7 @@ I use software to solve practical problems.
 
   - Books & Topics:  Finance.
                      Personal Growth.
-                     Social change.
+                     Social Change.
                      Autobiographies.
 
   - Food. Football. Live Music.
