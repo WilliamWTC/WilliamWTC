@@ -16,7 +16,6 @@ I use software to solve practical problems.
                      Autobiographies.
 
   - Food. Football. Live Music.
-
   <br>  
 </details>
 <details>
