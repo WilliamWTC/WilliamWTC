@@ -20,6 +20,7 @@ I use software to solve practical problems.
 </details>
 <details>
   <summary>Get in touch with me!</summary>
+  <br>
 
 <p>
     <a href="https://twitter.com/lliamrc" alt="Twitter"><img src="https://github.com/imdhruv99/imdhruv99/blob/master/readme/twitter.png"></a>
