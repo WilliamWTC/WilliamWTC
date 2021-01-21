@@ -17,6 +17,7 @@ I use software to solve practical problems.
 
   - Food. Football. Live Music.
 
+  
 </details>
 <details>
   <summary>Get in touch with me!</summary>
