@@ -5,6 +5,7 @@ I use software to solve practical problems.
 <details>
   <summary>Get to know me!</summary>
   <br>
+  
   - Software Engineering student at WeThinkCode_
 
   - Cyber Security Enthusiast.
