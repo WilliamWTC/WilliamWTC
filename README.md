@@ -26,7 +26,7 @@ I use software to solve practical problems.
     <a href="https://www.linkedin.com/in/lw-mabitsela" alt="Linkedin"><img src="https://github.com/imdhruv99/imdhruv99/blob/master/readme/linkedin.png"></a>
     <a href="https://instagram.com/lliamrc?igshid=xka6kz4qllmp" alt="Instagram"><img src="https://github.com/imdhruv99/imdhruv99/blob/master/readme/insta.png"></a>
 </p>  
-<//details>
+</details>
 
 ### Tools & Languages 
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
