@@ -18,12 +18,6 @@ I use software to solve practical problems.
   - Food. Football. Live Music.
   <br>  
 </details>
-<details>
-  <summary>Get in touch with me!</summary>
-  <br>
-
-<p>[My Socials](https://www.linkfly.to/lliamrc)</p>  
-</details>
 
 ### Tools & Languages 
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
