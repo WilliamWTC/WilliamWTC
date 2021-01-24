@@ -22,7 +22,7 @@ I use software to solve practical problems.
   <summary>Get in touch with me!</summary>
   <br>
 
-<p>[My Socials](linkfly.to/lliamrc)</p>  
+<p>[My Socials](https://www.linkfly.to/lliamrc)</p>  
 </details>
 
 ### Tools & Languages 
