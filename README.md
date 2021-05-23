@@ -8,8 +8,6 @@ I use software to solve practical problems.
   
   - WeThinkCode_ Graduate.
 
-  - Cyber Security Enthusiast.
-
   - Books & Topics:  Finance.
                      Personal Growth.
                      Social Change.
