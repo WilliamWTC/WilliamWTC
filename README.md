@@ -7,13 +7,13 @@ I use software to solve practical problems.
   <br>
   
   - WeThinkCode_ Graduate.
+  
+  - HarvardX Mentor.
 
-  - Books & Topics:  Finance.
-                     Personal Growth.
-                     Social Change.
-                     Autobiographies.
-
-  - Food. Football. Live Music.
+  - With these topics, you'll have my full attention: Finance, Technology, Personal Growth and Social Change.
+  
+  - I want to be a pianist so bad.
+  
   <br>  
 </details>
 
