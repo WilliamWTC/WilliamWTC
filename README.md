@@ -6,13 +6,13 @@ I use software to solve practical problems.
   <summary>Get to know me!</summary>
   <br>
   
-  - WeThinkCode_ Graduate.
-  
   - HarvardX Mentor.
-
-  - With these topics, you'll have my full attention: Finance, Technology, Personal Growth and Social Change.
   
-  - I want to be a pianist so bad.
+  - WeThinkCode_ Graduate.
+
+  - These topics get all my attention: Finance, Technology, Personal Growth and Social Change.
+  
+  - Pianist (Beginner).
   
   <br>  
 </details>
