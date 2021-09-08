@@ -9,10 +9,10 @@ I use software to solve practical problems.
   - HarvardX Mentor.
   
   - WeThinkCode_ Graduate.
-
-  - These topics get all my attention: Finance, Technology, Personal Growth and Social Change.
   
   - Pianist (Beginner).
+
+  - Finance, Technology, Personal Growth and Social Change.
   
   <br>  
 </details>
