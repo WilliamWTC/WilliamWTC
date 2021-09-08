@@ -6,11 +6,11 @@ I use software to solve practical problems.
   <summary>Get to know me!</summary>
   <br>
   
+  - Pianist.
+  
   - HarvardX Mentor.
   
   - WeThinkCode_ Graduate.
-  
-  - Pianist (Beginner).
 
   - Finance, Technology, Personal Growth and Social Change.
   
