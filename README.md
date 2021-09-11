@@ -1,4 +1,4 @@
-### Hey there, I'm William.👋
+### Hey there, I'm William 👋
 
 I use software to solve practical problems.
 
